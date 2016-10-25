@@ -1,0 +1,6 @@
+int a;
+char *a;
+const char *const p;
+volatile const signed int *const volatile p;
+char *const *(*p)();
+char *(*c[10])(int **p);
